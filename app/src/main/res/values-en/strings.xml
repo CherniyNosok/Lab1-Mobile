@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lab1Mobile</string>
     <string name="author_name">Kalinin Nikita</string>
     <string name="author_info">Student of group B23-191-2</string>
     <string name="avatar_description">Photo with the author\'s image</string>
-    <string name="phone_number" translatable="false">+7 (950) 161-52-11</string>
-    <string name="telegram_link" translatable="false">\@Cherniy_Nosok</string>
-    <string name="email" translatable="false">nikitozkd@gmail.com</string>
     <string name="email_description">Email</string>
     <string name="phone_number_description">Phone number</string>
     <string name="telegram_link_description">Telegram link</string>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1Mobile</string>
+    <string name="author_name">Калинин Никита</string>
+    <string name="author_info">Студент группы Б23-191-2</string>
+    <string name="avatar_description">Фото с изображением автора</string>
+    <string name="email_description">Электронная почта</string>
+    <string name="phone_number_description">Номер телефона</string>
+    <string name="telegram_link_description">Ссылка на телеграмм</string>
+</resources>
